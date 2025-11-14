@@ -1,0 +1,21 @@
+product_id,product_name,category,price,sku
+1001,Wireless Mouse,Electronics,19.99,WM-1001
+1002,Mechanical Keyboard,Electronics,89.5,MK-2100
+1003,USB-C Hub,Accessories,34.99,UH-3102
+1004,Noise Cancelling Headphones,Electronics,149.0,NH-4500
+1005,"Gaming Monitor 27""",Electronics,329.99,GM-2701
+1006,Smartphone Stand,Accessories,15.25,SS-1203
+1007,Portable SSD 1TB,Storage,129.99,PS-1TB7
+1008,Fitness Tracker,Wearables,79.49,FT-8802
+1009,Stainless Steel Water Bottle,Home & Kitchen,24.0,WB-5501
+1010,Bluetooth Speaker,Electronics,59.99,BS-6400
+1011,LED Desk Lamp,Home & Office,39.95,DL-3301
+1012,Ergonomic Office Chair,Furniture,249.0,OC-9104
+1013,4K Action Camera,Photography,199.5,AC-7200
+1014,Electric Toothbrush,Personal Care,69.0,ET-5100
+1015,Air Fryer 5qt,Home Appliances,119.99,AF-5QT2
+1016,Yoga Mat,Fitness,32.0,YM-2201
+1017,Wireless Charger Pad,Accessories,29.5,WC-4300
+1018,Smart Thermostat,Home Automation,199.99,ST-7800
+1019,Robot Vacuum,Home Appliances,349.0,RV-9601
+1020,Coffee Grinder,Home & Kitchen,54.75,CG-1402
